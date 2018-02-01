@@ -14,7 +14,7 @@ fs.readFile("data/distritos.csv", "utf8", function(error, data) {
     votoFilterClean = d3.csvFormat(votoFilter);
 
     fs.writeFile("data-clean/distritos.csv", votoFilterClean, function(err) {
-        console.log("file written");
+        console.log("Hecho!");
     });
 
 });
