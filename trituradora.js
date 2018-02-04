@@ -3,18 +3,30 @@ var d3 = require("d3");
 var _ = require("lodash");
 
 //Cargamos el dataset
-fs.readFile("data/distritos.csv", "utf8", function(error, data) {
+fs.readFile("data/datos.csv", "utf8", function(error, data) {
 
     data = d3.csvParse(data);
 
-    var votoFilter = data.filter(function(d) {
-        return d.poblacion > 40000;
+    console.log(data)
+    //Filtrar las de UX
+    data = data.filter(function(item) {
+        return item.puesto ? item.puesto.match(/UX/) : false;
     });
 
-    votoFilterClean = d3.csvFormat(votoFilter);
+    //Prouuection de solo las 3 keys que queremos ASAP
+    data = data.map(function(item){
+        return {
+            'puesto': item.puesto,
+            'ciudad': item.ciudad,
+            'fecha': item.fecha
+        }
+    });
 
-    fs.writeFile("data-clean/distritos.csv", votoFilterClean, function(err) {
-        console.log("Hecho!");
+
+    var csv = d3.csvFormat(data);
+
+    fs.writeFile("data-clean/distritosssssss.csv", csv, function(err) {
+        console.log("Hecho!!");
     });
 
 });
