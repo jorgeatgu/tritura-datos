@@ -1,0 +1,555 @@
+puesto,ciudad,fecha
+UX,Barcelona,01/10/09
+UX,Barcelona,14/01/10
+UX,En remoto,04/02/10
+UX,Madrid,16/03/10
+UX,Barcelona,15/03/10
+UX,Barcelona,05/05/10
+UX,Madrid,05/05/10
+UX,Sevilla,04/05/10
+UX,Barcelona,26/05/10
+UX,Madrid,29/07/10
+UX,Madrid,10/08/10
+UX,Madrid,20/12/10
+UX,Barcelona,26/01/11
+UX,Madrid,27/01/11
+UX,Barcelona,15/02/11
+UX,Madrid,23/02/11
+UX,Barcelona,07/04/11
+UX,Madrid,04/05/11
+UX,A Coruña,12/05/11
+UX,Madrid,09/06/11
+UX,Madrid,09/06/11
+UX,Barcelona,18/06/11
+UX,Madrid,15/09/11
+UX,Madrid,28/10/11
+UX,Madrid,14/11/11
+UX,Madrid,16/11/11
+UX,Madrid,16/11/11
+UX,Madrid,04/01/12
+UX,Madrid,18/01/12
+UX,Madrid,26/01/12
+UX,Barcelona,23/01/12
+UX,Alacant,07/02/12
+UX,Madrid,07/02/12
+UX,Madrid,08/02/12
+UX,Alacant,15/02/12
+UX,Barcelona,13/02/12
+UX,Madrid,12/02/12
+UX,Barcelona,08/03/12
+UX,Cádiz,12/04/12
+UX,Barcelona,26/04/12
+UX,Madrid,14/05/12
+UX,Madrid,29/05/12
+UX,Cádiz,29/05/12
+UX,Barcelona,11/06/12
+UX,Barcelona,18/06/12
+UX,Madrid,30/10/12
+UX,Madrid,13/11/12
+UX,Barcelona,08/11/12
+UX,Madrid,05/03/13
+UX,Barcelona,05/04/13
+UX,Madrid,11/06/13
+UX,Barcelona,13/08/13
+UX,Madrid,10/10/13
+UX,Indiferente Online,28/10/13
+UX,Madrid,16/12/13
+UX,Madrid,13/01/14
+UX,Barcelona,13/01/14
+UX,Sant Cugat del Vallès,28/01/14
+UX,Barcelona,04/02/14
+UX,Barcelona,12/02/14
+UX,Madrid,24/02/14
+UX,Bilbo,06/03/14
+UX,Valencia,25/03/14
+UX,Madrid,07/04/14
+UX,Barcelona,06/05/14
+UX,Madrid,03/06/14
+UX,Madrid,11/06/14
+UX,Sevilla,11/06/14
+UX,Madrid,17/06/14
+UX,Barcelona,11/08/14
+UX,Barcelona,03/09/14
+UX,Barcelona,22/09/14
+UX,Barcelona,08/10/14
+UX,Barcelona,07/10/14
+UX,Barcelona,10/10/14
+UX,Madrid,08/10/14
+UX,El Prat de Llobregat,17/10/14
+UX,Sant Cugat del Vallès,05/11/14
+UX,Madrid,12/01/15
+UX,Madrid,27/01/15
+UX,Barcelona,09/02/15
+UX,Madrid,11/02/15
+UX,Buenos Aires,18/02/15
+UX,Madrid,02/03/15
+UX,Madrid,10/03/15
+UX,Barcelona,17/03/15
+UX,Llinars del Vallès,20/03/15
+UX,Barcelona,07/04/15
+UX,Barcelona,14/04/15
+UX,Barcelona,21/04/15
+UX,Madrid,22/04/15
+UX,Barcelona,06/05/15
+UX,Barcelona,18/05/15
+UX,Barcelona,14/05/15
+UX,Guadalupe,25/05/15
+UX,Barcelona,27/05/15
+UX,Barcelona,08/06/15
+UX,Madrid,02/07/15
+UX,Valencia,21/07/15
+UX,Madrid,28/07/15
+UX,Madrid,14/08/15
+UX,Pozuelo de Alarcón,25/08/15
+UX,Donostia,21/08/15
+UX,Madrid,08/09/15
+UX,Madrid,15/09/15
+UX,Madrid,14/09/15
+UX,Barcelona,02/10/15
+UX,Madrid,07/10/15
+UX,Nom Pen,16/10/15
+UX,Madrid,23/10/15
+UX,Madrid,05/11/15
+UX,Madrid,13/11/15
+UX,Madrid,25/11/15
+UX,Madrid,01/12/15
+UX,Barcelona,05/01/16
+UX,Madrid,13/01/16
+UX,Barcelona,17/02/16
+UX,Barcelona,16/02/16
+UX,Madrid,19/02/16
+UX,Madrid,11/03/16
+UX,Sevilla,11/04/16
+UX,Barcelona,14/04/16
+UX,Madrid,14/04/16
+UX,Barcelona,22/04/16
+UX,Barcelona,26/04/16
+UX,Barcelona,03/05/16
+UX,Madrid,31/05/16
+UX,Madrid,30/05/16
+UX,Marbella,03/06/16
+UX,Paseo Mikeletegi 65,02/06/16
+UX,Barcelona,01/06/16
+UX,Vigo,29/06/16
+UX,Madrid,28/06/16
+UX,Madrid,05/07/16
+UX,Madrid,05/07/16
+UX,Madrid,05/07/16
+UX,Madrid,30/06/16
+UX,Madrid,06/07/16
+UX,Barcelona,04/08/16
+UX,Madrid,19/08/16
+UX,En remoto,16/08/16
+UX,Barcelona,22/08/16
+UX,Madrid,02/09/16
+UX,Madrid,05/09/16
+UX,En remoto,08/09/16
+UX,Zamudio,11/10/16
+UX,Madrid,10/10/16
+UX,Barcelona,14/10/16
+UX,Barcelona,09/11/16
+UX,Barcelona,15/11/16
+UX,Madrid,21/11/16
+UX,Barcelona,21/11/16
+UX,Valencia,23/11/16
+UX,Barcelona,29/11/16
+UX,En remoto,24/11/16
+UX,Barcelona,09/12/16
+UX,Madrid,12/12/16
+UX,Barcelona,21/12/16
+UX,Madrid,19/12/16
+UX,Valladolid,27/01/17
+UX,Madrid,10/02/17
+UX,Sant Cugat del Vallès,14/02/17
+UX,Madrid,06/03/17
+UX,Barcelona,07/03/17
+UX,Barcelona,10/03/17
+UX,Madrid,09/03/17
+UX,Madrid,28/03/17
+UX,Barcelona,20/04/17
+UX,Madrid,19/04/17
+UX,Barcelona,16/05/17
+UX,Ciudad de México,12/05/17
+UX,Madrid,22/05/17
+UX,Barcelona,24/05/17
+UX,Madrid,24/05/17
+UX,Madrid,02/06/17
+UX,Madrid,09/06/17
+UX,Barcelona,26/06/17
+UX,Madrid,28/06/17
+UX,Bilbao,27/06/17
+UX,Madrid,06/07/17
+UX,Mataró,13/07/17
+UX,Madrid,11/07/17
+UX,Madrid,14/07/17
+UX,Madrid,25/07/17
+UX,Sils,24/07/17
+UX,La Coruña,24/07/17
+UX,En remoto,16/08/17
+UX,Madrid,23/08/17
+UX,Cassá de la Selva,31/08/17
+UX,Madrid,08/09/17
+UX,Madrid,07/09/17
+UX,Madrid,15/09/17
+UX,Barcelona,15/09/17
+UX,Barcelona,19/10/17
+UX,Barcelona,19/10/17
+UX,Barcelona,13/11/17
+UX,Barcelona,30/11/17
+UX,Barcelona,05/12/17
+UX,Valencia,04/01/18
+UX,Madrid,04/01/18
+UX,Barcelona,17/01/18
+UX,Badalona,17/01/18
+UX,Sant Cugat del Vallès,23/01/18
+UX,Alcobendas,01/02/18
+UX,Barcelona,02/02/18
+UX,Madrid,01/02/18
+UX,Sant Cugat del Vallès,02/02/18
+UX,Madrid,05/02/18
+UX,En remoto,06/02/18
+UX/UI,En remoto,04/02/10
+UX/UI,En remoto,04/03/10
+UX/UI,Madrid,30/08/10
+UX/UI,Madrid,06/05/11
+UX/UI,Madrid,12/05/11
+UX/UI,Altea,01/06/11
+UX/UI,Madrid,19/08/11
+UX/UI,Madrid,24/08/11
+UX/UI,Barcelona,18/10/11
+UX/UI,Madrid,06/12/11
+UX/UI,Barcelona,05/01/12
+UX/UI,San Pedro,09/01/12
+UX/UI,Westfield,07/01/12
+UX/UI,Ciudad Juárez,20/02/12
+UX/UI,Vigo,10/05/12
+UX/UI,Barcelona,28/05/12
+UX/UI,Barcelona,04/06/12
+UX/UI,Barcelona,05/12/12
+UX/UI,Madrid,03/01/13
+UX/UI,Barcelona,23/01/13
+UX/UI,Madrid,08/03/13
+UX/UI,Valencia,17/04/13
+UX/UI,Madrid,09/07/13
+UX/UI,Madrid,23/07/13
+UX/UI,indiferente,11/08/13
+UX/UI,Barcelona,23/10/13
+UX/UI,Madrid,05/11/13
+UX/UI,Madrid,04/11/13
+UX/UI,Alcobendas,06/11/13
+UX/UI,Barcelona,09/12/13
+UX/UI,Barcelona,13/01/14
+UX/UI,Madrid,03/02/14
+UX/UI,Madrid,05/03/14
+UX/UI,Bilbo,05/03/14
+UX/UI,Murcia,25/04/14
+UX/UI,Madrid,27/05/14
+UX/UI,Barcelona,27/05/14
+UX/UI,Lisboa,01/07/14
+UX/UI,Madrid,16/07/14
+UX/UI,Barcelona,07/08/14
+UX/UI,Leganés,07/08/14
+UX/UI,Madrid,16/09/14
+UX/UI,Madrid,03/10/14
+UX/UI,Madrid,21/10/14
+UX/UI,Elda,16/10/14
+UX/UI,Madrid,31/10/14
+UX/UI,Madrid,26/11/14
+UX/UI,Barcelona,25/11/14
+UX/UI,Barcelona,07/01/15
+UX/UI,Barcelona,13/01/15
+UX/UI,Barcelona,12/02/15
+UX/UI,Barcelona,12/02/15
+UX/UI,Madrid,09/02/15
+UX/UI,Barcelona,15/02/15
+UX/UI,Valencia,27/02/15
+UX/UI,Barcelona,26/02/15
+UX/UI,Barcelona,04/03/15
+UX/UI,Murcia,17/03/15
+UX/UI,Madrid,16/03/15
+UX/UI,Las Palmas de Gran Canaria,10/04/15
+UX/UI,Barcelona,14/04/15
+UX/UI,Alcoy,13/04/15
+UX/UI,Sevilla,17/04/15
+UX/UI,Madrid,22/04/15
+UX/UI,Gijón,07/05/15
+UX/UI,Rafelbuñol,13/05/15
+UX/UI,Madrid,12/05/15
+UX/UI,Madrid,18/05/15
+UX/UI,Barcelona,22/05/15
+UX/UI,Barcelona,29/05/15
+UX/UI,Madrid,10/06/15
+UX/UI,Barcelona,11/06/15
+UX/UI,Madrid,06/07/15
+UX/UI,Madrid,15/07/15
+UX/UI,Barcelona,17/07/15
+UX/UI,Barcelona,03/08/15
+UX/UI,Indiferente,07/09/15
+UX/UI,Barcelona,03/09/15
+UX/UI,Algete,09/09/15
+UX/UI,Barcelona,29/09/15
+UX/UI,Madrid,07/10/15
+UX/UI,Valencia,15/10/15
+UX/UI,Barcelona,21/10/15
+UX/UI,Palma,28/10/15
+UX/UI,Ávila,27/10/15
+UX/UI,Madrid,27/10/15
+UX/UI,Zúrich,03/11/15
+UX/UI,Barcelona,23/11/15
+UX/UI,Barcelona,20/11/15
+UX/UI,Madrid,26/11/15
+UX/UI,Madrid,26/11/15
+UX/UI,Madrid,03/12/15
+UX/UI,Madrid,03/12/15
+UX/UI,Nom Pen,30/11/15
+UX/UI,Ciudad de México,21/12/15
+UX/UI,Pozuelo de Alarcón,16/12/15
+UX/UI,Barcelona,23/12/15
+UX/UI,Madrid,21/12/15
+UX/UI,Madrid,13/01/16
+UX/UI,Barcelona,18/01/16
+UX/UI,Madrid,21/01/16
+UX/UI,Barcelona,19/01/16
+UX/UI,Barcelona,27/01/16
+UX/UI,Barcelona,08/02/16
+UX/UI,Madrid,08/02/16
+UX/UI,Barcelona,15/02/16
+UX/UI,Barcelona,12/02/16
+UX/UI,Barcelona,25/02/16
+UX/UI,Madrid,03/03/16
+UX/UI,Madrid,11/03/16
+UX/UI,Zaragoza,10/03/16
+UX/UI,Madrid,15/03/16
+UX/UI,Madrid,14/03/16
+UX/UI,Madrid,18/03/16
+UX/UI,Barcelona,17/03/16
+UX/UI,Barcelona,22/03/16
+UX/UI,Barcelona,28/03/16
+UX/UI,Madrid,07/04/16
+UX/UI,En remoto,12/04/16
+UX/UI,Madrid,15/04/16
+UX/UI,Barcelona,13/04/16
+UX/UI,Barcelona,15/04/16
+UX/UI,Madrid,25/04/16
+UX/UI,Madrid,09/05/16
+UX/UI,Madrid,06/05/16
+UX/UI,Madrid,13/05/16
+UX/UI,Barcelona,12/05/16
+UX/UI,Madrid,10/05/16
+UX/UI,Barcelona,23/05/16
+UX/UI,Barcelona,19/05/16
+UX/UI,Mgarr,19/05/16
+UX/UI,Barcelona,19/05/16
+UX/UI,Martorell,07/06/16
+UX/UI,Bilbo,09/06/16
+UX/UI,Barcelona,23/06/16
+UX/UI,Finestrat,22/06/16
+UX/UI,Madrid,28/06/16
+UX/UI,Barcelona,05/07/16
+UX/UI,Madrid,15/07/16
+UX/UI,Madrid,15/07/16
+UX/UI,Sevilla,01/08/16
+UX/UI,Barcelona,04/08/16
+UX/UI,Barcelona,18/08/16
+UX/UI,Madrid,01/09/16
+UX/UI,Madrid,06/09/16
+UX/UI,Barcelona,07/09/16
+UX/UI,Madrid,07/09/16
+UX/UI,Madrid,15/09/16
+UX/UI,Madrid,15/09/16
+UX/UI,Barcelona,22/09/16
+UX/UI,Madrid,14/10/16
+UX/UI,Madrid,02/11/16
+UX/UI,Sant Cugat del Vallès,28/10/16
+UX/UI,Madrid,14/11/16
+UX/UI,Madrid,17/11/16
+UX/UI,Madrid,22/11/16
+UX/UI,Barcelona,02/12/16
+UX/UI,Barcelona,12/12/16
+UX/UI,Madrid,06/12/16
+UX/UI,Pozuelo de Alarcón,16/12/16
+UX/UI,Pozuelo de Alarcón,21/12/16
+UX/UI,Barcelona,18/01/17
+UX/UI,Barcelona,24/01/17
+UX/UI,Barcelona,20/01/17
+UX/UI,Bilbao,24/01/17
+UX/UI,Barcelona,01/02/17
+UX/UI,En remoto,07/02/17
+UX/UI,Pozuelo de Alarcón,09/02/17
+UX/UI,En remoto,14/02/17
+UX/UI,Zaragoza,16/02/17
+UX/UI,Madrid,16/02/17
+UX/UI,Barcelona,24/02/17
+UX/UI,Madrid,06/03/17
+UX/UI,Pozuelo de Alarcón,10/03/17
+UX/UI,Barcelona,09/03/17
+UX/UI,Barcelona,09/03/17
+UX/UI,Palau de Plegamans,16/03/17
+UX/UI,Madrid,22/03/17
+UX/UI,Madrid,27/03/17
+UX/UI,Madrid,19/04/17
+UX/UI,Barcelona,17/04/17
+UX/UI,Madrid,20/04/17
+UX/UI,Barcelona,21/04/17
+UX/UI,Madrid,27/04/17
+UX/UI,Madrid,16/05/17
+UX/UI,Barcelona,19/05/17
+UX/UI,Barcelona,30/05/17
+UX/UI,En remoto,08/06/17
+UX/UI,Madrid,12/06/17
+UX/UI,Barcelona,15/06/17
+UX/UI,Málaga,15/06/17
+UX/UI,Alcobendas,13/06/17
+UX/UI,Las Rozas,21/06/17
+UX/UI,Tarrasa,26/06/17
+UX/UI,Alcobendas,26/06/17
+UX/UI,Madrid,03/07/17
+UX/UI,Alicante,04/07/17
+UX/UI,Barcelona,11/07/17
+UX/UI,Barcelona,07/07/17
+UX/UI,En remoto,13/07/17
+UX/UI,Barcelona,12/07/17
+UX/UI,Madrid,18/07/17
+UX/UI,Alcobendas,19/07/17
+UX/UI,Madrid,18/07/17
+UX/UI,Barcelona,21/07/17
+UX/UI,En remoto,31/07/17
+UX/UI,Madrid,26/07/17
+UX/UI,En remoto,25/07/17
+UX/UI,Madrid,08/08/17
+UX/UI,Ta' Xbiex,10/08/17
+UX/UI,Madrid,22/08/17
+UX/UI,Madrid,24/08/17
+UX/UI,Valencia,01/09/17
+UX/UI,Madrid,06/09/17
+UX/UI,Sevilla,07/09/17
+UX/UI,En remoto,07/09/17
+UX/UI,Madrid,14/09/17
+UX/UI,Madrid,14/09/17
+UX/UI,Barcelona,20/09/17
+UX/UI,Barcelona,05/10/17
+UX/UI,Madrid,06/10/17
+UX/UI,Madrid,18/10/17
+UX/UI,Barcelona,19/10/17
+UX/UI,Zaragoza,26/10/17
+UX/UI,En remoto,24/10/17
+UX/UI,Madrid,30/10/17
+UX/UI,En remoto,31/10/17
+UX/UI,Barcelona,07/11/17
+UX/UI,En remoto,17/11/17
+UX/UI,Barcelona,29/11/17
+UX/UI,Ate,04/12/17
+UX/UI,Valladolid,14/12/17
+UX/UI,En remoto,18/12/17
+UX/UI,Barcelona,19/12/17
+UX/UI,Tarrasa,19/12/17
+UX/UI,Gerona,21/12/17
+UX/UI,Valencia,02/01/18
+UX/UI,Madrid,02/01/18
+UX/UI,Barcelona,29/12/17
+UX/UI,En remoto,03/01/18
+UX/UI,Barcelona,09/01/18
+UX/UI,Madrid,14/01/18
+UX/UI,Barcelona,14/01/18
+UX/UI,Barcelona,16/01/18
+UX/UI,Sant Cugat del Vallès,24/01/18
+UX/UI,Barcelona,26/01/18
+UX/UI,Cuart de Poblet,26/01/18
+UX/UI,Madrid,29/01/18
+UX/UI,Sant Cugat del Vallès,29/01/18
+UX/UI,Barcelona,31/01/18
+UX/UI,San Sebastián,01/02/18
+UX/UI,Madrid,01/02/18
+UX/UI,Madrid,01/02/18
+UX/UI,Barcelona,02/02/18
+UX/UI,Barcelona,07/02/18
+UX/UI,Madrid,07/02/18
+UX/UI,Alcobendas,07/02/18
+UI,Barcelona,26/jul/18
+UI,Barcelona,26/jul/18
+UI,Sant Cugat del Vallès,29/nov/18
+UI,Torrejón de la Calzada,23/nov/18
+UI,Barcelona,15/nov/18
+UI,Barcelona,14/nov/18
+UI,Madrid,14/nov/18
+UI,Madrid,12/nov/18
+UI,Madrid,12/nov/18
+UI,Alcorcón,31/oct/18
+UI,Ciudad Real,25/oct/18
+UI,Madrid,25/oct/18
+UI,Barcelona,17/oct/18
+UI,En remoto,28/sep/18
+UI,Barcelona,16/sep/18
+UI,En remoto,12/sep/18
+UI,San Juan Despí,10/aug/18
+UI,Marbella,09/aug/18
+UI,Barcelona,23/jul/18
+UI,Barcelona,18/jul/18
+UI,Barcelona,18/jul/18
+UI,En remoto,05/jul/18
+UI,Las Rozas,14/jun/18
+UI,Madrid,11/jun/18
+UI,Barcelona,23/may/18
+UI,Madrid,16/apr/18
+UI,En remoto,05/apr/18
+UI,Madrid,28/feb/18
+UI,Madrid,28/feb/18
+UI,Barcelona,28/feb/18
+UI,Madrid,27/feb/18
+UI,En remoto,06/feb/18
+UI,Múnich,01/feb/18
+UI,Madrid,04/jan/18
+UI,Alcorcón,22/nov/17
+UI,Madrid,31/oct/17
+UI,Barcelona,04/sep/17
+UI,Cornellà de Llobregat,31/aug/17
+UI,Madrid,29/aug/17
+UI,Madrid,09/aug/17
+UI,Madrid,01/aug/17
+UI,Madrid,21/jul/17
+UI,Valladolid,26/may/17
+UI,Madrid,24/may/17
+UI,Barcelona,08/may/17
+UI,Torrelodones,26/apr/17
+UI,Madrid,02/mar/17
+UI,Palma de Mallorca,16/feb/17
+UI,Barcelona,07/feb/17
+UI,Barcelona,24/jan/17
+UI,Palma de Mallorca,19/jan/17
+UI,Madrid,18/jan/17
+UI,Barcelona,22/aug/16
+UI,Barcelona,12/aug/16
+UI,Barcelona,28/jul/16
+UI,Barcelona,26/jul/16
+UI,Barcelona,23/may/16
+UI,Barcelona,07/mar/16
+UI,Barcelona,26/feb/16
+UI,Madrid,24/feb/16
+UI,Madrid,14/dec/15
+UI,Gibraltar,28/oct/15
+UI,Valencia,30/sep/15
+UI,Madrid,10/sep/15
+UI,Barcelona,07/may/15
+UI,Málaga,13/apr/15
+UI,Barcelona,24/nov/14
+UI,Valencia,04/nov/14
+UI,Las Rozas,22/apr/14
+UI,Madrid,09/dec/13
+UI,Bucarest,01/oct/13
+UI,Madrid,23/sep/13
+UI,Barcelona,08/may/13
+UI,Gijón,12/apr/13
+UI,Barcelona,18/feb/13
+UI,Barcelona,10/jan/13
+UI,Málaga,25/oct/12
+UI,Valencia,30/aug/12
+UI,Barcelona,06/jul/12
+UI,Barcelona,02/jul/12
+UI,Barcelona,05/jan/12
+UI,Barcelona,28/dec/11
+UI,Barcelona,04/oct/11
+UI,Barcelona,28/jul/11
+UI,Berlín,22/jul/11
+UI,Madrid,08/jun/11
+UI,Madrid,02/jun/11
+UI,Madrid,18/jul/10

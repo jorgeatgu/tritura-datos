@@ -26,5 +26,5 @@ comentario
 
 # Recorremos el array de numeros
 for (( i=0; i<${#mes[@]}; ++i )); do
-    csvgrep -c 1 -r "(${mes[$i]})" data-flash.csv | csvstat --zero --sum >> total-flash.csv
+    csvgrep -c 1 -r "(${mes[$i]})" data-puestos.csv | csvstat --zero --sum >> total-puestos.csv
 done
