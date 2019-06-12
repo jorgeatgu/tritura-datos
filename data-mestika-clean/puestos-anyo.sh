@@ -14,7 +14,7 @@ var dataRemotoFin = _(dataRemoto)
 comentario
 
 # Array con todos los años
-year=('-18' '-17' '-16' '-15' '-14' '-13' '-12' '-11' '-10' '-09' '-08' )
+year=('-19' '-18' '-17' '-16' '-15' '-14' '-13' '-12' '-11' '-10' '-09' '-08' )
 
 <<comentario
 Lo primero es recorrer el array de años.

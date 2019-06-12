@@ -115,14 +115,14 @@ fs.readFile("data-mestika/datos.csv", "utf8", function(error, data) {
     var csvDesigner = d3.csvFormat(dataDesigner);
     var csvProgrammer = d3.csvFormat(dataProgrammer);
     var csvFront = d3.csvFormat(dataFront);
-    var csvRemote = d3.csvFormat(dataRemotoFin);
+    var csvRemote = d3.csvFormat(dataRemoto);
     var csvPuestos = d3.csvFormat(dataPuestos);
     var csvFlash = d3.csvFormat(dataFlashFin);
     var csvDesignerCount = d3.csvFormat(dataDesignerFin);
     var csvProgrammerCount = d3.csvFormat(dataProgrammerFin);
     var csvFrontCount = d3.csvFormat(dataFrontFin);
     var csvMarketingCount = d3.csvFormat(dataMarketingFin);
-    var csvUxCount = d3.csvFormat(dataUxFin);
+    var csvUxCount = d3.csvFormat(dataUX);
     var csvNinja = d3.csvFormat(dataNinja);
     var csvUi = d3.csvFormat(dataUI);
 

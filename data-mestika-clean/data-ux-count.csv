@@ -1,445 +1,297 @@
-Fecha,Total
-30-nov-18,6
-29-nov-18,1
-28-nov-18,1
-26-nov-18,6
-23-nov-18,1
-22-nov-18,1
-21-nov-18,2
-19-nov-18,2
-16-nov-18,1
-15-nov-18,2
-13-nov-18,3
-12-nov-18,4
-09-nov-18,2
-08-nov-18,3
-07-nov-18,1
-06-nov-18,2
-30-oct-18,1
-24-oct-18,1
-23-oct-18,1
-18-oct-18,1
-17-oct-18,1
-15-oct-18,2
-11-oct-18,1
-10-oct-18,2
-04-oct-18,1
-03-oct-18,1
-02-oct-18,3
-27-sep-18,1
-25-sep-18,1
-21-sep-18,1
-19-sep-18,2
-17-sep-18,1
-16-sep-18,2
-12-sep-18,2
-09-sep-18,1
-06-sep-18,1
-04-sep-18,1
-29-aug-18,1
-28-aug-18,2
-16-aug-18,1
-14-aug-18,1
-13-aug-18,1
-08-aug-18,1
-07-aug-18,1
-31-jul-18,2
-24-jul-18,1
-23-jul-18,1
-17-jul-18,1
-16-jul-18,2
-12-jul-18,1
-11-jul-18,1
-05-jul-18,1
-03-jul-18,3
-21-jun-18,2
-19-jun-18,2
-14-jun-18,2
-12-jun-18,3
-07-jun-18,3
-06-jun-18,1
-28-may-18,1
-23-may-18,2
-21-may-18,1
-14-may-18,1
-10-may-18,1
-09-may-18,1
-08-may-18,1
-03-may-18,1
-02-may-18,1
-30-apr-18,1
-26-apr-18,1
-24-apr-18,1
-23-apr-18,2
-20-apr-18,1
-19-apr-18,2
-16-apr-18,2
-13-apr-18,2
-11-apr-18,2
-04-apr-18,2
-02-apr-18,1
-26-mar-18,3
-23-mar-18,1
-22-mar-18,1
-21-mar-18,1
-19-mar-18,1
-16-mar-18,1
-14-mar-18,1
-13-mar-18,1
-08-mar-18,2
-07-mar-18,1
-02-mar-18,1
-01-mar-18,1
-28-feb-18,2
-27-feb-18,2
-21-feb-18,1
-20-feb-18,2
-16-feb-18,1
-08-feb-18,1
-07-feb-18,1
-01-feb-18,3
-29-jan-18,1
-26-jan-18,1
-23-jan-18,1
-18-jan-18,1
-09-jan-18,1
-04-jan-18,2
-03-jan-18,1
-02-jan-18,1
-29-dec-17,1
-19-dec-17,1
-05-dec-17,1
-04-dec-17,1
-30-nov-17,1
-29-nov-17,1
-23-nov-17,1
-17-nov-17,1
-13-nov-17,1
-07-nov-17,1
-30-oct-17,1
-19-oct-17,1
-18-oct-17,1
-05-oct-17,1
-20-sep-17,1
-18-sep-17,1
-15-sep-17,2
-14-sep-17,2
-08-sep-17,1
-07-sep-17,2
-06-sep-17,1
-01-sep-17,1
-31-aug-17,1
-23-aug-17,1
-22-aug-17,1
-10-aug-17,1
-08-aug-17,1
-31-jul-17,1
-26-jul-17,1
-25-jul-17,2
-24-jul-17,2
-21-jul-17,1
-19-jul-17,1
-18-jul-17,1
-14-jul-17,1
-13-jul-17,1
-11-jul-17,1
-10-jul-17,1
-07-jul-17,1
-06-jul-17,1
-03-jul-17,1
-28-jun-17,1
-27-jun-17,1
-26-jun-17,3
-15-jun-17,1
-13-jun-17,1
-09-jun-17,1
-02-jun-17,1
-24-may-17,2
-19-may-17,1
-27-apr-17,1
-21-apr-17,1
-20-apr-17,2
-19-apr-17,1
-17-apr-17,2
-28-mar-17,1
-22-mar-17,1
-16-mar-17,1
-10-mar-17,2
-09-mar-17,3
-08-mar-17,1
-07-mar-17,1
-06-mar-17,2
-24-feb-17,1
-16-feb-17,2
-14-feb-17,1
-10-feb-17,1
-09-feb-17,2
-07-feb-17,1
-01-feb-17,1
-27-jan-17,1
-24-jan-17,1
-20-jan-17,1
-18-jan-17,1
-21-dec-16,2
-19-dec-16,1
-16-dec-16,1
-12-dec-16,2
-09-dec-16,1
-06-dec-16,1
-02-dec-16,1
-29-nov-16,1
-24-nov-16,1
-23-nov-16,1
-22-nov-16,1
-21-nov-16,2
-17-nov-16,1
-15-nov-16,1
-14-nov-16,1
-09-nov-16,1
-02-nov-16,1
-28-oct-16,1
-14-oct-16,2
-11-oct-16,1
-10-oct-16,1
-27-sep-16,1
-22-sep-16,1
-15-sep-16,2
-08-sep-16,1
-07-sep-16,2
-05-sep-16,1
-02-sep-16,1
-01-sep-16,1
-22-aug-16,1
-19-aug-16,1
-18-aug-16,1
-16-aug-16,1
-04-aug-16,1
-06-jul-16,1
-05-jul-16,4
-29-jun-16,1
-28-jun-16,1
-22-jun-16,2
-09-jun-16,1
-07-jun-16,1
-03-jun-16,1
-02-jun-16,1
-01-jun-16,1
-31-may-16,1
-30-may-16,1
-23-may-16,1
-19-may-16,3
-13-may-16,1
-12-may-16,1
-10-may-16,1
-09-may-16,1
-06-may-16,1
-03-may-16,1
-26-apr-16,1
-22-apr-16,1
-15-apr-16,1
-14-apr-16,2
-13-apr-16,1
-12-apr-16,1
-11-apr-16,1
-07-apr-16,1
-22-mar-16,1
-18-mar-16,1
-17-mar-16,1
-15-mar-16,1
-14-mar-16,1
-11-mar-16,1
-10-mar-16,1
-03-mar-16,1
-25-feb-16,1
-17-feb-16,1
-16-feb-16,2
-15-feb-16,1
-12-feb-16,1
-08-feb-16,1
-27-jan-16,1
-21-jan-16,1
-19-jan-16,1
-18-jan-16,1
-13-jan-16,1
-05-jan-16,1
-23-dec-15,1
-21-dec-15,2
-16-dec-15,1
-03-dec-15,2
-01-dec-15,1
-30-nov-15,1
-26-nov-15,2
-25-nov-15,1
-23-nov-15,2
-20-nov-15,1
-13-nov-15,1
-05-nov-15,1
-03-nov-15,1
-28-oct-15,1
-27-oct-15,2
-23-oct-15,1
-21-oct-15,1
-16-oct-15,1
-15-oct-15,1
-09-oct-15,1
-07-oct-15,2
-02-oct-15,1
-29-sep-15,1
-15-sep-15,1
-14-sep-15,1
-09-sep-15,1
-08-sep-15,1
-07-sep-15,1
-03-sep-15,1
-25-aug-15,1
-21-aug-15,1
-14-aug-15,1
-28-jul-15,1
-21-jul-15,1
-17-jul-15,1
-15-jul-15,1
-06-jul-15,1
-02-jul-15,1
-29-jun-15,1
-10-jun-15,1
-08-jun-15,1
-27-may-15,1
-25-may-15,1
-22-may-15,1
-18-may-15,2
-14-may-15,1
-13-may-15,1
-12-may-15,1
-07-may-15,1
-06-may-15,1
-23-apr-15,1
-22-apr-15,2
-21-apr-15,1
-17-apr-15,1
-14-apr-15,1
-13-apr-15,1
-10-apr-15,1
-07-apr-15,1
-20-mar-15,1
-19-mar-15,2
-17-mar-15,2
-16-mar-15,1
-10-mar-15,1
-04-mar-15,1
-02-mar-15,1
-27-feb-15,1
-26-feb-15,1
-18-feb-15,1
-15-feb-15,1
-12-feb-15,2
-09-feb-15,2
-13-jan-15,1
-12-jan-15,1
-07-jan-15,1
-26-nov-14,1
-25-nov-14,1
-05-nov-14,1
-31-oct-14,1
-21-oct-14,1
-16-oct-14,1
-08-oct-14,2
-07-oct-14,1
-03-oct-14,1
-22-sep-14,1
-16-sep-14,1
-03-sep-14,1
-11-aug-14,1
-07-aug-14,2
-16-jul-14,1
-01-jul-14,1
-17-jun-14,1
-11-jun-14,1
-09-jun-14,1
-03-jun-14,1
-27-may-14,2
-06-may-14,1
-25-apr-14,1
-06-mar-14,1
-05-mar-14,2
-12-feb-14,1
-03-feb-14,1
-28-jan-14,1
-13-jan-14,1
-09-dec-13,1
-06-nov-13,1
-05-nov-13,1
-04-nov-13,1
-28-oct-13,1
-23-oct-13,1
-10-oct-13,1
-13-aug-13,1
-11-aug-13,1
-23-jul-13,1
-09-jul-13,1
-11-jun-13,1
-17-apr-13,1
-05-apr-13,1
-08-mar-13,1
-05-mar-13,1
-30-jan-13,1
-24-jan-13,1
-23-jan-13,1
-03-jan-13,1
-05-dec-12,1
-08-nov-12,1
-30-oct-12,1
-05-oct-12,1
-28-aug-12,1
-18-jun-12,1
-12-jun-12,2
-04-jun-12,1
-29-may-12,2
-28-may-12,1
-14-may-12,1
-10-may-12,1
-26-apr-12,1
-12-apr-12,1
-08-mar-12,1
-01-mar-12,1
-20-feb-12,1
-15-feb-12,1
-13-feb-12,1
-12-feb-12,1
-08-feb-12,1
-07-feb-12,1
-26-jan-12,1
-23-jan-12,1
-18-jan-12,1
-09-jan-12,1
-07-jan-12,1
-05-jan-12,1
-06-dec-11,1
-16-nov-11,2
-28-oct-11,1
-18-oct-11,1
-24-aug-11,1
-19-aug-11,1
-18-jun-11,1
-15-jun-11,1
-09-jun-11,1
-01-jun-11,1
-12-may-11,1
-06-may-11,1
-08-mar-11,1
-23-feb-11,1
-17-feb-11,1
-13-feb-11,1
-27-jan-11,1
-26-jan-11,1
-25-jan-11,1
-20-dec-10,1
-02-nov-10,1
-30-aug-10,1
-19-aug-10,1
-10-aug-10,1
-23-apr-10,1
-04-mar-10,1
-04-feb-10,1
-17-nov-09,1
-15-mar-09,1
-14-oct-08,1
+puesto,ciudad,fecha
+UX Researcher ,Barcelona,07-jun-19
+Auxiliar de Iluminación - Prácticas,Madrid,07-jun-19
+UX Researcher ,Barcelona,07-jun-19
+Auxiliar de Iluminación - Prácticas,Madrid,07-jun-19
+UX/Product Designer,Barcelona,06-jun-19
+UX Designer,San Sebastián,06-jun-19
+UX Designer,Madrid,04-jun-19
+UX Designer,Madrid,28-may-19
+UX Designer,Madrid,27-may-19
+UX Designer,Barcelona,24-may-19
+UX/AI Designer,Sant Cugat del Vallès,24-may-19
+Content Strategist/ UX Writer ,En remoto,16-may-19
+UX Writer ,En remoto,16-may-19
+Senior UX Designer,Barcelona,16-may-19
+Senior UX Designer,Madrid,10-may-19
+Auxiliar Ecommerce & Marketplace,Onteniente,08-may-19
+Diseñador de UX,Madrid,07-may-19
+UX Project Leader,Martorell,07-may-19
+UX Designer,Málaga,07-may-19
+UX Designer,Barcelona,03-may-19
+Diseñador Gráfico UX,Boadilla del Monte,26-apr-19
+Diseñador/a UX ,Barcelona,16-apr-19
+Auxiliar de KAM - Prácticas ,Barcelona,08-apr-19
+UX Senior ,Madrid,15-mar-19
+Responsable de User Experience (UX),Madrid,04-mar-19
+UX Senior,Alcobendas,01-mar-19
+Diseñador Web/UX,Valencia,21-feb-19
+Diseñador Web/UX,Sant Cugat del Vallès,21-feb-19
+Administrador Linux,Madrid,08-feb-19
+Consultor UX,Madrid,31-jan-19
+UX Designer,Madrid,30-jan-19
+Diseñador/a Web UX,Portugalete,29-jan-19
+UX Junior + Desarrollo de Negocio,Madrid,28-jan-19
+UX Manager ,Madrid,09-jan-19
+Auxiliar de Rotulación ,Barcelona,28-dec-18
+Product Owner / UX,Madrid,17-dec-18
+Auxiliar de Taller de Impresión Digital,Barcelona,11-dec-18
+Auxiliar Audiovisual - Prácticas ,Madrid,30-nov-18
+Auxiliar de Escenografía / Atrezzo - Prácticas,Madrid,30-nov-18
+Auxiliar Audiovisual - Prácticas ,Madrid,30-nov-18
+Auxiliar de Escenografía / Atrezzo - Prácticas,Madrid,30-nov-18
+Marketing UX Designer - Growth,Barcelona,26-nov-18
+UX Senior ,Madrid,26-nov-18
+Mid-Senior UX Designer,Madrid,21-nov-18
+UX Designer ,Madrid,21-nov-18
+User Researcher & UX Designer,Barcelona,16-nov-18
+UX Designer/Researcher ,Barcelona,12-nov-18
+Auxiliar de montaje para eventos,Barcelona,09-nov-18
+Consultor UX - Accesibilidad,Madrid,08-nov-18
+UX Designer - Native apps,Barcelona,06-nov-18
+Auxiliar de Edición con AVID,Madrid,30-oct-18
+Office Manager / Auxiliar administrativo/a,Barcelona,23-oct-18
+UX Designer,Barcelona,17-oct-18
+UX Lead,Madrid,15-oct-18
+React + Redux Developer,Barcelona,11-oct-18
+UX Designer & Researcher ,Madrid,10-oct-18
+UX Designer,Madrid,10-oct-18
+Consultor UX,Madrid,02-oct-18
+Diseñador Gráfico Digital / UX,Barcelona,27-sep-18
+Senior UX Product Manager,Madrid,21-sep-18
+UX Senior Consultant,Barcelona,17-sep-18
+UX Manager,Madrid,16-sep-18
+UX Designer,Barcelona,16-sep-18
+UX Researcher,Barcelona,14-aug-18
+Senior UX Researcher,Londres,07-aug-18
+Senior Linux Weblogic ,Barcelona,31-jul-18
+Técnico de Sistemas Linux,Madrid,23-jul-18
+Diseñador/a UX y maquetador/a Front,Zaragoza,17-jul-18
+Administrador de Sistemas GNU/Linux-Cloud,Granada,12-jul-18
+Diseñador plataformas web / app + ux/ui,En remoto,05-jul-18
+UX Senior Designer,Sant Cugat del Vallès,21-jun-18
+Senior UX Designer,Barcelona,19-jun-18
+Auxiliar de campañas en departamento de Paid Social - Prácticas,Madrid,14-jun-18
+Programador Front End - React Native & Redux,En remoto,12-jun-18
+Senior UX Consultant & Product Director,Madrid,12-jun-18
+UX Consultant,Madrid,12-jun-18
+Diseñador Web/UX,Las Rozas,07-jun-18
+Analista Digital (con conocimientos UX),Madrid,07-jun-18
+UX Designer,Madrid,21-may-18
+Experto UX,Madrid,14-may-18
+Senior UX Designer,Barcelona,10-may-18
+UX Project Manager,Barcelona,02-may-18
+Diseño web / UX Senior,Madrid,23-apr-18
+UX Designer,Madrid,20-apr-18
+UX Designer,Madrid,16-apr-18
+Diseñador@ UX & Web,Ciudad de México,16-apr-18
+UX Designer - Prácticas,Madrid,13-apr-18
+Diseñador/a UX,Manresa,04-apr-18
+UX Researcher,Barcelona,26-mar-18
+UX Research,Barcelona,16-mar-18
+Desarrolladores JavaScript React/Redux ,Madrid,07-mar-18
+Diseñador web UX,En remoto,01-mar-18
+UX Writer - Prácticas,Palau de Plegamans,28-feb-18
+UX Designer,Madrid,28-feb-18
+Consultor ux junior/senior,Alcobendas,21-feb-18
+UX designer internship - Prácticas,Barcelona,20-feb-18
+UX Designer,Madrid,20-feb-18
+UX Junior,Montornès del Vallès,16-feb-18
+Senior UX Designer,Barcelona,08-feb-18
+UX Senior,Madrid,01-feb-18
+UX Designer,Sant Cugat del Vallès,23-jan-18
+Ingeniero Sistemas Linux,Valencia,18-jan-18
+ Área UX - Prácticas,Valencia,04-jan-18
+Diseñador UX,Madrid,04-jan-18
+UX / Interaction Design - Internship ,Barcelona,05-dec-17
+Diseñador/a UX,Barcelona,30-nov-17
+Desarrollador de Sistemas embebidos Linux,Madrid,23-nov-17
+Diseñador UX / Mejora de experiencia de usuario - Prácticas,Barcelona,13-nov-17
+UX Designer ,Barcelona,19-oct-17
+Formador/a (PHP/Mysql/Javascript/Linux/etc.),En remoto,18-sep-17
+Diseñador UX/Visualización de Datos/ Infografías,Madrid,15-sep-17
+CSS + UX Designer,Barcelona,15-sep-17
+Desarrollador Javascript: Node.js React Redux etc,Madrid,08-sep-17
+Dissenyador Web / UX,Cassá de la Selva,31-aug-17
+UX Designer,Madrid,23-aug-17
+Diseñador UX - Design Thinking,Madrid,25-jul-17
+Dissenyador/a Gràfic/Web/UX,Sils,24-jul-17
+Frontend Developer / UX: diseño gráfico y maquetación,La Coruña,24-jul-17
+UX Front end developer,Madrid,14-jul-17
+Analista funcional Web/User Experience UX,Mataró,13-jul-17
+UX Designer,Madrid,11-jul-17
+Administrado Linux,Valencia,10-jul-17
+UX Designer ,Madrid,06-jul-17
+Senior UX Designer,Madrid,28-jun-17
+Diseñador de interacción / UX,Bilbao,27-jun-17
+UX HMI ,Barcelona,26-jun-17
+UX / Interaction Designer,Madrid,09-jun-17
+UX Designer,Madrid,02-jun-17
+Senior UX Designer,Barcelona,24-may-17
+Diseñador/a Experiencia de Usuario (UX),Madrid,24-may-17
+UX Specialist,Barcelona,20-apr-17
+Administrador LINUX/ UNIX,Valencia,17-apr-17
+UX designer,Madrid,28-mar-17
+Senior UX Design Lead,Barcelona,10-mar-17
+Senior UX/Product Designer,Madrid,09-mar-17
+Junior Systems Engineer (linux),Barcelona,08-mar-17
+UX Designer,Barcelona,07-mar-17
+UX Designer,Madrid,06-mar-17
+UX Researcher,Sant Cugat del Vallès,14-feb-17
+Programador HTML/CSS/UX ,Madrid,10-feb-17
+Full-stack Developer (Angular/PHP/Symfony/Linux) ,Barcelona,09-feb-17
+Diseñador/a UX,Valladolid,27-jan-17
+UX Automoción ,Barcelona,21-dec-16
+Director de Arte y UX,Madrid,19-dec-16
+Diseñador UX,Madrid,12-dec-16
+Consultor y Diseñador UX / Senior specialist en Visualización...,Barcelona,09-dec-16
+UX Senior Product Designer,Barcelona,29-nov-16
+Diseñador UX,En remoto,24-nov-16
+Diseñador UX Senior,Valencia,23-nov-16
+Senior UX Designer ,Madrid,21-nov-16
+Diseñador/a UX/AI ,Barcelona,21-nov-16
+Frontend developer JS/UX,Barcelona,15-nov-16
+UX Designer,Barcelona,09-nov-16
+UX Designer,Barcelona,14-oct-16
+Experto UX,Zamudio,11-oct-16
+Director de Arte y UX,Madrid,10-oct-16
+Analista Java/J2SE sobre Linux,Madrid,27-sep-16
+UX Designer,En remoto,08-sep-16
+Director de Arte y UX,Madrid,05-sep-16
+Director de Arte experto en UX,Madrid,02-sep-16
+Consultor UX Junior,Barcelona,22-aug-16
+Director de Proyectos UX,Madrid,19-aug-16
+Experto/a en UX,En remoto,16-aug-16
+UX Designer,Barcelona,04-aug-16
+UX Designer,Madrid,06-jul-16
+Diseñador UX Junior,Madrid,05-jul-16
+Diseñador UX ,Madrid,05-jul-16
+Diseñador Senior interacción / UX ,Madrid,05-jul-16
+Diseñador UX Jr,Vigo,29-jun-16
+UX Designer,Madrid,28-jun-16
+Arquitecto Linux y Dockers,Madrid,22-jun-16
+Diseñador/a gráfico UX Graphic designer ,Marbella,03-jun-16
+Diseñador UX,Paseo Mikeletegi 65,02-jun-16
+Diseñador web y UX,Barcelona,01-jun-16
+Consultor UX,Madrid,31-may-16
+UX Junior,Madrid,30-may-16
+UX Designer/Researcher,Barcelona,03-may-16
+Web & Mobile UX Designer ,Barcelona,26-apr-16
+Intern UX Designer,Barcelona,22-apr-16
+Consultor UX/ Diseñador Gráfico,Barcelona,14-apr-16
+Senior IxD/UX designer,Madrid,14-apr-16
+UX Specialist,Sevilla,11-apr-16
+Diseñador Web / Usuabilidad / IUX ,Madrid,11-mar-16
+UX Research Internship,Barcelona,17-feb-16
+Auxiliar de Diseño Gráfico,Barcelona,16-feb-16
+UX Front-end Developer,Barcelona,16-feb-16
+Junior UX tester/analyst,Madrid,13-jan-16
+UX Designer,Barcelona,05-jan-16
+Front-end web developer UX,Madrid,01-dec-15
+UX  Manager,Madrid,25-nov-15
+Administrador/a de BBDD (ORACLE y MySQL) en entornos LINUX/AIX,Cornellà de Llobregat,23-nov-15
+Consultor UX - Diseñador de Interacción,Madrid,13-nov-15
+Consultor UX - Diseñador de Interacción,Madrid,05-nov-15
+Consultor Diseño y UX Mobile. ,Madrid,23-oct-15
+ UX / Interaction Design intern,Nom Pen,16-oct-15
+Administrador de sistemas GNU/Linux,Madrid,09-oct-15
+Consultor UX - Diseñador,Madrid,07-oct-15
+Junior UX designer,Barcelona,02-oct-15
+UX Designer,Madrid,15-sep-15
+UX Designer,Madrid,14-sep-15
+Diseñador UX,Madrid,08-sep-15
+UX- CONSULTOR DE USABILIDAD,Pozuelo de Alarcón,25-aug-15
+Diseñador UX,Donostia,21-aug-15
+Diseñador UX,Madrid,14-aug-15
+UX Designer,Madrid,28-jul-15
+Crazy UX Designer,Valencia,21-jul-15
+Ux Designer,Madrid,02-jul-15
+Auxiliar Diseño gráfico,Barcelona,29-jun-15
+Digital UX Designer,Barcelona,08-jun-15
+UX junior - Barcelona,Barcelona,27-may-15
+Ux DESIGNER,Guadalupe,25-may-15
+Diseñador UX / Mejora de experiencia de usuario,Barcelona,18-may-15
+Junior UX Designer,Barcelona,14-may-15
+Diseñador UX Junior,Barcelona,06-may-15
+Administrador Sistemas Linux - Técnico Microinformática,Barcelona,23-apr-15
+UX Designer con Inglés Alto,Madrid,22-apr-15
+DIiseñador UX -AI Junior,Barcelona,21-apr-15
+UX / IU Designer,Barcelona,14-apr-15
+Diseñador UX/AI,Barcelona,07-apr-15
+Front-end / Mobile / UX,Llinars del Vallès,20-mar-15
+System Administrator Linux,Arenys de Mar,19-mar-15
+System Administrator Linux Barcelona,Barcelona,19-mar-15
+Ux junior,Barcelona,17-mar-15
+UX Developer ,Madrid,10-mar-15
+Prácticas: Consultor Junior UX,Madrid,02-mar-15
+Diseñador/a Web UX Asociado,Buenos Aires,18-feb-15
+Front End developer /UX,Barcelona,09-feb-15
+Consultor UX Senior ,Madrid,12-jan-15
+UX Senior Consultant,Sant Cugat del Vallès,05-nov-14
+Diseñador Web/UX,Madrid,08-oct-14
+UX Specialist,Barcelona,08-oct-14
+Experto en Experiencia de Usuario (UX),Barcelona,07-oct-14
+Freelance UX Web Designer,Barcelona,22-sep-14
+Diseñador UX / Programador Front-End,Barcelona,03-sep-14
+UX Designer,Barcelona,11-aug-14
+UX Designer Team Lead,Madrid,17-jun-14
+Diseñador UX,Madrid,11-jun-14
+Técnico de Sistemas experto en Linux,Barcelona,09-jun-14
+Diseñador/a UX (Freelance),Madrid,03-jun-14
+Sr. Graphic UX Designer,Barcelona,06-may-14
+Design UX,Bilbo,06-mar-14
+UX especialistas en Diseño de Interacción,Barcelona,12-feb-14
+Interaction Designer UX,Sant Cugat del Vallès,28-jan-14
+UX / IU Designer,Barcelona,13-jan-14
+Consultor Externo de UX ,Indiferente - Online,28-oct-13
+UX / IA Designer,Madrid,10-oct-13
+Designer - UX - Web developer,Barcelona,13-aug-13
+Diseñador de Interacción Senior UX - Freelance,Madrid,11-jun-13
+Diseñador freelancer website UX,Barcelona,05-apr-13
+Consultor UX para Digital Experience,Madrid,05-mar-13
+Prácticas en empresa para Soporte y Testing. (Linux),Madrid,30-jan-13
+técnico o auxiliar informático,Barcelona,24-jan-13
+UX Designer,Barcelona,08-nov-12
+DISEÑADOR UX / MAQUETADOR,Madrid,30-oct-12
+Auxiliar: Comercial y TeleMarketing  (sector Internet),Móstoles,05-oct-12
+Linux-System Engineer for the maintenance of the serverfarm,Berlín,28-aug-12
+UX Designer,Barcelona,18-jun-12
+Open-source Web Programmer (Linux Apache MySQL PHP Joomla),Barcelona,12-jun-12
+Junior Open-source Web Programmer Linux Apache MySQL PHP Jo...,Barcelona,12-jun-12
+Consultor UX,Madrid,29-may-12
+Diseñador de Interfaz web. UX Web Designer,Cádiz,29-may-12
+Diseñadores interacción y visual (UX),Madrid,14-may-12
+Programador web senior experto en UX,Barcelona,26-apr-12
+Diseñador de interacción web (UX web) ,Cádiz,12-apr-12
+UX Senior - User Experience,Barcelona,08-mar-12
+Help Desk de sistemas 2º nivel (Linux con inglés),Barcelona,01-mar-12
+UX DESIGNER AT MULTINATIONAL CONSULTING COMPANY,Alacant,15-feb-12
+UX Product Manager,Barcelona,13-feb-12
+Diseño maquetación UX para applicación web y móviles,Madrid,12-feb-12
+UX Designer-HAVAS MEDIA,Madrid,08-feb-12
+USER EXPERIENCE (UX) CONSULTANT,Alacant,07-feb-12
+Diseñador Ux Senior,Madrid,26-jan-12
+Consultor experto UX,Barcelona,23-jan-12
+Experto en UX,Madrid,18-jan-12
+Consultor UX Junior,Madrid,16-nov-11
+Consultor UX Senior,Madrid,16-nov-11
+Diseñador visual web/UX que sea fino fino...,Madrid,28-oct-11
+UX Ninja,Barcelona,18-jun-11
+Operating System LINUX - SuSe ,Madrid,15-jun-11
+Experto en UX   35.000 €,Madrid,09-jun-11
+Auxiliar administrativa,Sitges,08-mar-11
+Jr. UX Interaction Designer,Madrid,23-feb-11
+Instalador Wowza/Config. Servidores Web Linux-Windows,Valencia,17-feb-11
+Experto en servidores Linux,Barcelona,13-feb-11
+Senior UX freelance,Madrid,27-jan-11
+Senior UX Designer,Barcelona,26-jan-11
+PROGRAMADOR PHP MYSQL LINUX,Madrid,25-jan-11
+AUXILIAR POSTPRODUCCIÓN AFTER EFFECTS,Santiago de Compostela,20-dec-10
+Auxiliar Autónomo de Diseñador Gráfico que le guste el fútbol,Las Rozas,02-nov-10
+Programador senior PHP - Sistemas Linux,Madrid,19-aug-10
+diseñador de interacción ux usabilidad,Madrid,10-aug-10
+Auxiliar Autónomo de Diseñador Gráfico que le guste el fútbol,Las Rozas,23-apr-10
+Excellent UX/Web Designer,En remoto,04-feb-10
+Auxiliar de Project Manager Interactivo,Barcelona,17-nov-09
+Programador-Administrador de Sistemas Linux,Fuengirola,15-mar-09
+Técnico de sistemas Linux y Windows,Madrid,14-oct-08
